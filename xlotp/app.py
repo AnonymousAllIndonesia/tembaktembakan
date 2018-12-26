@@ -43,14 +43,13 @@ def lodprint(s):
 
 bintang=(gt+"""
  =======================================
- TEMBAK PAKET BY BINTANG NUR PRADANA
+ TEMBAK PAKET BY Mr.Kintil
  MASIH DALAM TAHAP UJICOBA
  BILA INGIN DI UPDATE TIAP HARI
  FOLLOW ACCOUNT SOSMED SAYA DI BAWAH INI
  
- IG: @bintang_nur_pradana
- Fb: Bintang Nur Pradana
- Yt: Bintang Nur Pradana
+ Fb: imam.ilyasa.1
+ Yt: Tutorial Termux
  =======================================
 """)
 l="Harap tunggu.."
@@ -59,7 +58,7 @@ def main_menu():
     clear()
     slowprints(bintang)
     print(p+
-        "   Tembak Tembakan Bintang" +
+        "   Tembak Tembakan Mr.Kintil" +
         "\n Pilih Salah Satu:"
         "\n  [1] Menu Beli Paket" + 
         "\n  [2] Minta Otp Code" +
